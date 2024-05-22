@@ -1,6 +1,6 @@
 ## Sintaxe - Desafio
 
-Vamos exercitar todo o conteúdo apresentado no módulo de Sintaxe codificando o seguinte cenário.
+Vamos exercitar todo o conteúdo apresentado no módulo de Sintaxe codificando o seguinte cenário. 🛠️👓
 
 1. Crie o projeto ContaBanco que receberá dados via terminal.
 
@@ -16,4 +16,5 @@ Usuário: 1021 (depois ENTER para o próximo campo)
 Os campos em [ ] devem ser alterados pelas informações que forem inseridas pelos usuários.
 
 Autores
+
 Gleyson Sampaio
