@@ -16,5 +16,4 @@ Usuário: 1021 (depois ENTER para o próximo campo)
 Os campos em [ ] devem ser alterados pelas informações que forem inseridas pelos usuários.
 
 Autores
-
 Gleyson Sampaio
